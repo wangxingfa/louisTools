@@ -1,0 +1,28 @@
+{
+"name":"wangxingfa/louistools",
+"description":"PHP basic tools classes",
+"type":"library",
+"license":"MIT",
+
+"keywords":[
+"utils",
+"tools",
+"string"
+],
+"authors":[
+{
+"name":"louis",
+"email":"935466680@qq.com"
+}
+],
+
+ "autoload": {
+        "psr-4": {
+            "louistools\\":"louistools"
+        }
+    },
+    "require": {
+        "php": ">=5.6.0"
+    }
+	
+}
